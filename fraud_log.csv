@@ -1,0 +1,2 @@
+amount,merchant,transaction_type,transaction_category,location,gender,hour,dayofweek,prediction,fraud_probability
+3513,Amazon,online,travel,Baku,Female,15,0,1,0.690639688758267
